@@ -19,7 +19,15 @@ outString = outString.replace(re, "");
 re = new RegExp('</td>', 'g');
 outString = outString.replace(re, "");
 
+//Remove the tr tags
+re = new RegExp('<tr [^>]*>','g'); // Open tags
+outString = outString.replace(re, "");
+re = new RegExp('</tr>', 'g'); //Closed tags
+outString = outString.replace(re, "");
 
+//Remove br tags
+re = new RegExp('<br />', 'g');
+outString = outString.replace(re, "");
 
 fs.writeFileSync('fac-staff-filtered.csv', outString);
 console.log('Wrote');
