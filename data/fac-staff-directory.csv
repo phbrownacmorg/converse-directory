@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lastname, firstname, jobtitle, dept, building, room, email, phone    
     
     <table class="views-table sticky-enabled cols-5">
@@ -16,6 +17,9 @@ lastname, firstname, jobtitle, dept, building, room, email, phone
           </tr>
   </thead>
   <tbody>
+=======
+   lastname,firstname,jobtitle,dept,building,room,email,phone
+>>>>>>> 34a11e7129e27f024bdc6e8d50782640e5541216
           <tr class="odd views-row-first">
                   <td class="views-field views-field-field-facstaff-last-name-value active">
             <a href="/about/directory/glenn-abel">Abel</a>          </td>
@@ -3172,5 +3176,8 @@ lastname, firstname, jobtitle, dept, building, room, email, phone
 <a href="mailto:david.zacharias@converse.edu">david.zacharias@converse.edu</a><br />
 864.596.9615          </td>
               </tr>
+<<<<<<< HEAD
       </tbody>
 </table>
+=======
+>>>>>>> 34a11e7129e27f024bdc6e8d50782640e5541216
