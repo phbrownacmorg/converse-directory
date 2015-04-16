@@ -1,3 +1,4 @@
+id,firstname,lastname,middlename,preferred,email,homephone,room,building,homeaddress,homecity,homestate,homezip,classification,degree,major1,major2,major3,org1,org2,org3
 1,Sandra,Foster,Betty,Sandra,Sandra.Foster@converse.edu,4-(024)502-0316,199,Howard,8 Maple Plaza,Sacramento,California,95838,Converse 2: Freshman,B.B.A. (Bachelor of Business Administration),iaculis congue vivamus metus arcu,,faucibus accumsan,lectus aliquam sit amet diam,dolor morbi vel lectus in,ut odio cras
 2,Paula,Evans,Janet,Paula,Paula.Evans@converse.edu,1-(583)179-2249,309,Cudd,05 Anniversary Pass,Oceanside,California,92056,Converse 1: Freshman,"",vitae nisl aenean lectus,,eu tincidunt,,enim blandit mi,nulla suscipit ligula
 3,Debra,Dunn,Margaret,Debra,Debra.Dunn@converse.edu,0-(313)479-0937,335,Andrews,31 Doe Crossing Road,Richmond,Virginia,23289,Converse 1: Senior,B.A. (Bachelor of Arts),cursus vestibulum proin eu mi,,diam id,,erat quisque erat eros,lectus pellentesque eget nunc donec
