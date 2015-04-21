@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"filter":false,"title":"data.csv","tooltip":"/data/data.csv","undoManager":{"mark":0,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":0,"scrollleft":0,"selection":{"start":{"row":2,"column":0},"end":{"row":2,"column":14},"isBackwards":true},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":0},"timestamp":1429204762000,"hash":"4c9865cfb09317c0e615f63d4638328f6185d5a0"}
+=======
+{"filter":false,"title":"data.csv","tooltip":"/data/data.csv","undoManager":{"mark":-1,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":0,"scrollleft":0,"selection":{"start":{"row":0,"column":0},"end":{"row":0,"column":0},"isBackwards":false},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":{"row":49,"mode":"ace/mode/text"}},"timestamp":1429147057000,"hash":"1a642bc94aa9d3a6e0b2ba279fc04fa639a257a2"}
+>>>>>>> 5cd69bf9ce2fd5000c0e35a2606ce6ea643c5859

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"filter":false,"title":"fac-staff-directory.csv","tooltip":"/data/fac-staff-directory.csv","undoManager":{"mark":0,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":0,"scrollleft":0,"selection":{"start":{"row":0,"column":0},"end":{"row":0,"column":0},"isBackwards":false},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":0},"timestamp":1429205682627,"hash":"6b207602f661940180fd0fe466f94aa7c58a6c60"}
+=======
+{"filter":false,"title":"fac-staff-directory.csv","tooltip":"/data/fac-staff-directory.csv","undoManager":{"mark":-1,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":50270.5,"scrollleft":0,"selection":{"start":{"row":898,"column":16},"end":{"row":898,"column":16},"isBackwards":false},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":{"row":48,"state":"start","mode":"ace/mode/text"}},"timestamp":1429147057000,"hash":"69daddc3e139b00490b33d3090f5a984ec88c305"}
+>>>>>>> 5cd69bf9ce2fd5000c0e35a2606ce6ea643c5859
