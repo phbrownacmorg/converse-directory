@@ -8,7 +8,9 @@ console.log('Read');
 
 var outString = inString;
 
-outString - outString.replace(/\r\n/g, "");
+outString = outString.replace(/\n/g, "");
+outString = outString.replace(/\t/g, "");
+outString = outString.replace(/ [ \t]+/g, "")
 
     
 var re = new RegExp('<a href="[^"]*">', 'g');
