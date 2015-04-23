@@ -1,3 +1,6 @@
+# Cloud9 files (why is this necessary?)
+.c9/
+
 # Logs
 logs
 *.log
