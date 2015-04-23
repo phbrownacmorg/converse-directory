@@ -57,6 +57,10 @@ outString = outString.replace(/Carmichael Hall/g,'Carmichael');
 outString = outString.replace(/Kuhn Hall/g,'Kuhn');
 outString = outString.replace(/Kuhn 3rd Floor/g,'Kuhn');
 
+// Ensure that the folks without contact info have the <br /> tags to end up with the right fields
+re = new RegExp('<td class="views-field views-field-field-facstaff-phone-value">\s*</td>', 'g');
+outString = outString.replace(re, '<td class="views-field views-field-field-facstaff-phone-value">","","","</td>');
+
 // Remove the <a href=""> tags
 re = new RegExp('<a href="[^"]*">', 'g');
 outString = outString.replace(re, "");
@@ -88,8 +92,8 @@ outString = outString.replace(re, '","$1","');
 re = new RegExp('<br />', 'g'); // When the office has no room number (must come after the ones with room numbers have been changed)
 outString = outString.replace(re, '",,"'); 
 
-
-
+// Strip off the comma after the phone number
+outString = outString.replace(/,\r\n/g,'\r\n');
 
 
 fs.writeFileSync('fac-staff-filtered.csv', outString);
