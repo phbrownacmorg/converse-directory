@@ -1,5 +1,7 @@
 console.log("Running");
 var fs = require('fs');
+var pp = require('./papaparse.min.js');
+
 
 var inString = fs.readFileSync('converse-directorystu.csv', 'utf-8');
 console.log('Read');
@@ -10,6 +12,7 @@ var outString = inString;
 // Fix phone format
 outString = outString.replace(/\d-\((\d\d\d)\)(\d\d\d)-(\d\d\d\d)/g, '$1.$2.$3');
 
+<<<<<<< HEAD
 //Fix degree blanks with 'Undecided' or 'Undeclared'
 //outString = outString.replace(/'""'/g, 'Undeclared')
 
@@ -58,6 +61,16 @@ outString = outString.replace(/\d-\((\d\d\d)\)(\d\d\d)-(\d\d\d\d)/g, '$1.$2.$3')
 // re = new RegExp('<br />', 'g'); // When the office has no room number (must come after the ones with room numbers have been changed)
 // outString = outString.replace(re, '",,"'); 
 
+=======
+Papa.parse('converse-directorystu.csv', { //Papa undefined no matter what, even in source file. Where do I use "pp?"
+	delimiter: "",	// auto-detect
+	newline: "",	// auto-detect
+	header: true,
+	complete: function(results) {
+		console.log("Finished:", results.data);
+	}
+});
+>>>>>>> f7679028a2f98ae67a50e710a34264e2253ee44c
 
 
 
