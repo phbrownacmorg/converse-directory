@@ -10,7 +10,8 @@ var outString = inString;
 // Fix phone format
 outString = outString.replace(/\d-\((\d\d\d)\)(\d\d\d)-(\d\d\d\d)/g, '$1.$2.$3');
 
-
+//Fix degree blanks with 'Undecided' or 'Undeclared'
+//outString = outString.replace(/'""'/g, 'Undeclared')
 
 // // Typo correction
 // outString = outString.replace(/ and and /g, ' and ');
