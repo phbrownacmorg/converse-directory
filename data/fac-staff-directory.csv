@@ -1,25 +1,4 @@
-<<<<<<< HEAD
-lastname, firstname, jobtitle, dept, building, room, email, phone    
-    
-    <table class="views-table sticky-enabled cols-5">
-    <thead>
-    <tr>
-              <th class="views-field views-field-field-facstaff-last-name-value active">
-          <a href="/about/directory?order=field_facstaff_last_name_value&amp;sort=desc" title="sort by Last Name" class="active">Last Name<img src="/misc/arrow-desc.png" alt="sort icon" title="sort descending" width="13" height="13" /></a>        </th>
-              <th class="views-field views-field-field-facstaff-first-name-value">
-          <a href="/about/directory?order=field_facstaff_first_name_value&amp;sort=asc" title="sort by First Name" class="active">First Name</a>        </th>
-              <th class="views-field views-field-field-facstaff-position-value">
-          <a href="/about/directory?order=field_facstaff_position_value&amp;sort=asc" title="sort by Position" class="active">Position</a>        </th>
-              <th class="views-field views-field-field-facstaff-department-value">
-          <a href="/about/directory?order=field_facstaff_department_value&amp;sort=asc" title="sort by Department" class="active">Department</a>        </th>
-              <th class="views-field views-field-field-facstaff-phone-value">
-          Contact        </th>
-          </tr>
-  </thead>
-  <tbody>
-=======
    lastname,firstname,jobtitle,dept,building,room,email,phone
->>>>>>> 34a11e7129e27f024bdc6e8d50782640e5541216
           <tr class="odd views-row-first">
                   <td class="views-field views-field-field-facstaff-last-name-value active">
             <a href="/about/directory/glenn-abel">Abel</a>          </td>
@@ -3176,8 +3155,3 @@ lastname, firstname, jobtitle, dept, building, room, email, phone
 <a href="mailto:david.zacharias@converse.edu">david.zacharias@converse.edu</a><br />
 864.596.9615          </td>
               </tr>
-<<<<<<< HEAD
-      </tbody>
-</table>
-=======
->>>>>>> 34a11e7129e27f024bdc6e8d50782640e5541216
