@@ -1,0 +1,327 @@
+id,firstname,lastname,middlename,preferred,email,homephone,room,building,homeaddress,homecity,homestate,homezip,classification,degree,major1,major2,phone,jobtitle,dept
+1,Sandra,Foster,Betty,Sandra,Sandra.Foster@converse.edu,024.502.0316,199,Howard,8 Maple Plaza,Sacramento,California,95838,Converse II non-degree,,,,,,
+2,Paula,Evans,Janet,Paula,Paula.Evans@converse.edu,583.179.2249,309,Cudd,05 Anniversary Pass,Oceanside,California,92056,Non-degree,,,,,,
+3,Debra,Dunn,Margaret,Debra,Debra.Dunn@converse.edu,313.479.0937,335,Andrews,31 Doe Crossing Road,Richmond,Virginia,23289,Non-degree,,,,,,
+4,Cynthia,Knight,Theresa,Cynthia,Cynthia.Knight@converse.edu,015.827.9751,134,Pell,781 Melby Parkway,Detroit,Michigan,48232,2018,BA,Undeclared,,,,
+5,Diana,Bryant,Melissa,Diana,Diana.Bryant@converse.edu,631.972.6037,269,Williams,763 Sauthoff Trail,Davenport,Iowa,52809,2018,BA,Undeclared,,,,
+6,Sara,Nichols,Ann,Sara,Sara.Nichols@converse.edu,636.069.5129,306,Pell,86 Nobel Plaza,Flint,Michigan,48550,2017,BA,Biology,,,,
+7,Margaret,Elliott,Tammy,Margaret,Margaret.Elliott@converse.edu,398.216.3674,312,Dexter,929 6th Junction,Charleston,South Carolina,29403,Converse II non-degree,,,,,,
+8,Phyllis,Reed,Marie,Phyllis,Phyllis.Reed@converse.edu,341.860.6608,180,Cudd,7 Macpherson Alley,Denver,Colorado,80291,Graduate,MAT,Early Childhood Education,,,,
+9,Debra,Gomez,Virginia,Virginia,Virginia.Gomez@converse.edu,563.192.4827,405,Andrews,89413 Crownhardt Place,West Palm Beach,Florida,33405,Converse II non-degree,,,,,,
+10,Patricia,Jacobs,Joan,Patricia,Patricia.Jacobs@converse.edu,173.963.6742,287,Andrews,63462 4th Lane,Rochester,New York,14639,Graduate,MFT,Marriage and Family Therapy,,,,
+11,Gloria,Harvey,Lori,Lori,Lori.Harvey@converse.edu,752.825.7521,464,Howard,49352 Onsgard Center,Buffalo,New York,14276,Converse II Sophomore,BS,Economics,Biology,,,
+12,Tammy,Kelley,Margaret,Tammy,Tammy.Kelley@converse.edu,157.106.1310,500,Dexter,5670 Arkansas Place,Pittsburgh,Pennsylvania,15250,Converse II Junior,BA,Economics,,,,
+13,Marie,Rivera,Theresa,Marie,Marie.Rivera@converse.edu,493.730.2937,291,Andrews,769 Valley Edge Plaza,Salem,Oregon,97312,Non-degree,,,,,,
+14,Laura,Wagner,Susan,Susan,Susan.Wagner@converse.edu,941.198.1671,246,Cudd,8406 Waxwing Junction,Huntington,West Virginia,25775,Converse II 2nd degree,BA,Art Therapy,Psychology,,,
+15,Lois,Knight,Frances,Lois,Lois.Knight@converse.edu,187.789.0362,171,Dexter,24660 Golden Leaf Trail,Decatur,Georgia,30089,Converse II Senior,BS,Chemistry,,,,
+16,Sandra,Sanchez,Sara,Sandra,Sandra.Sanchez@converse.edu,146.741.7314,258,Williams,63 Summerview Way,Vancouver,Washington,98687,Converse II 2nd degree,BS,Biology,,,,
+17,Lori,West,Christina,Lori,Lori.West@converse.edu,682.799.7448,480,Dexter,6 Old Gate Pass,Houston,Texas,77271,2016,BA,History,,,,
+18,Kathy,Hamilton,Norma,Kathy,Kathy.Hamilton@converse.edu,481.353.1580,469,Kate,6241 Shopko Hill,Springfield,Massachusetts,01114,Converse II Junior,BS,Business Administration,,,,
+19,Marilyn,Crawford,Rachel,Rachel,Rachel.Crawford@converse.edu,749.123.5372,230,Pell,985 Express Road,Austin,Texas,78769,2017,BA,Music,Theatre,,,
+20,Janet,Larson,Ann,Janet,Janet.Larson@converse.edu,779.663.9445,214,Cudd,92226 Lillian Junction,Decatur,Georgia,30089,Converse II Freshman,BA,Undeclared,,,,
+21,Marilyn,Evans,Rose,Rose,Rose.Evans@converse.edu,832.507.7966,200,Pell,63171 Jana Point,Chicago,Illinois,60652,Converse II Junior,BM,Music History,,,,
+22,Pamela,Taylor,Gloria,Pamela,Pamela.Taylor@converse.edu,639.463.4624,380,Kate,45 Hovde Circle,New Haven,Connecticut,06505,Converse II Junior,BS,Business Administration,,,,
+23,Frances,Bell,Laura,Frances,Frances.Bell@converse.edu,654.614.5584,285,Andrews,4766 Morningstar Point,Louisville,Kentucky,40298,Converse II Junior,BS,Economics,,,,
+24,Martha,Vasquez,Maria,Martha,Martha.Vasquez@converse.edu,613.721.5309,128,Belk,5634 Express Way,Oklahoma City,Oklahoma,73190,Converse II Freshman,BA,Undeclared,,,,
+25,Nicole,Pierce,Jean,Nicole,Nicole.Pierce@converse.edu,489.460.1451,380,Kate,5 Twin Pines Court,Fort Worth,Texas,76121,Converse II 2nd degree,BA,Chemistry,,,,
+26,Diane,Lane,Emily,Diane,Diane.Lane@converse.edu,043.965.1668,372,Williams,5 Linden Road,Providence,Rhode Island,02912,Converse II Senior,BA,Early Childhood Education,Studio Art,,,
+27,Cheryl,Bishop,Dorothy,Dorothy,Dorothy.Bishop@converse.edu,302.444.5481,422,Howard,9 Namekagon Street,Albany,New York,12232,2018,BA,Undeclared,,,,
+28,Annie,Holmes,Gloria,Annie,Annie.Holmes@converse.edu,465.907.9688,318,Pell,78980 Parkside Center,Sacramento,California,95823,Converse II Junior,BS,Chemistry,,,,
+29,Teresa,Scott,Diane,Teresa,Teresa.Scott@converse.edu,058.015.0683,419,Howard,86015 Havey Road,Washington,District of Columbia,20029,2017,BA,Business Administration,,,,
+30,Nancy,Johnson,Doris,Nancy,Nancy.Johnson@converse.edu,910.330.6794,162,Belk,62891 Lake View Crossing,Louisville,Kentucky,40220,2018,BS,Undeclared,,,,
+31,Carolyn,Riley,Kathy,Carolyn,Carolyn.Riley@converse.edu,070.618.3113,310,Dexter,995 Sunfield Parkway,Honolulu,Hawaii,96815,2017,BA,Business Administration,,,,
+32,Nancy,Fox,Judith,Nancy,Nancy.Fox@converse.edu,841.116.3754,117,Dexter,1803 Sloan Avenue,Madison,Wisconsin,53779,2015,BA,Philosophy,,,,
+33,Janice,Lopez,Anne,Janice,Janice.Lopez@converse.edu,826.284.9435,437,Williams,10428 Commercial Parkway,Orlando,Florida,32808,2015,BA,English,Art Therapy,,,
+34,Evelyn,Mccoy,Janice,Evelyn,Evelyn.Mccoy@converse.edu,472.857.2953,144,Belk,26114 Summer Ridge Point,Fort Lauderdale,Florida,33345,Graduate,MAT,Middle-level Education,,,,
+35,Irene,Black,Marie,Marie,Marie.Black@converse.edu,176.221.3927,359,Pell,67090 Division Way,Houston,Texas,77050,Graduate,MAT,Special Education,,,,
+36,Anne,Torres,Rachel,Anne,Anne.Torres@converse.edu,868.822.7307,464,Belk,025 Linden Point,Scottsdale,Arizona,85255,Converse II Sophomore,BA,Music,,,,
+37,Kelly,Hansen,Jacqueline,Kelly,Kelly.Hansen@converse.edu,860.835.6392,129,Andrews,9 Summer Ridge Court,Saint Paul,Minnesota,55103,Converse II Freshman,BA,Undeclared,,,,
+38,Sharon,Weaver,Teresa,Sharon,Sharon.Weaver@converse.edu,141.799.5398,417,Dexter,3803 Grayhawk Parkway,Jackson,Mississippi,39282,Converse II Sophomore,BFA,Creative and Professional Writing,,,,
+39,Heather,Campbell,Jane,Heather,Heather.Campbell@converse.edu,337.818.6342,370,Kate,1336 Starling Hill,Hollywood,Florida,33023,2018,BA,Undeclared,,,,
+40,Stephanie,Richardson,Doris,Stephanie,Stephanie.Richardson@converse.edu,535.853.6707,450,Andrews,273 Roth Alley,Saint Paul,Minnesota,55108,Graduate,EdS,Administration and Supervision,,,,
+41,Elizabeth,Palmer,Maria,Elizabeth,Elizabeth.Palmer@converse.edu,894.542.0435,246,Kate,95 Linden Terrace,Portland,Oregon,97211,Converse II Senior,BFA,Creative and Professional Writing,,,,
+42,Judith,Murphy,Stephanie,Judith,Judith.Murphy@converse.edu,114.905.5620,332,Belk,76 Carey Hill,Mobile,Alabama,36670,Converse II Junior,BA,Special Education,,,,
+43,Ashley,Mills,Kathryn,Ashley,Ashley.Mills@converse.edu,420.411.8721,221,Andrews,929 Caliangt Way,Indianapolis,Indiana,46207,Converse II Senior,BA,German Studies,,,,
+44,Judy,Gilbert,Katherine,Judy,Judy.Gilbert@converse.edu,465.876.7449,168,Howard,2696 Waywood Avenue,Saint Paul,Minnesota,55114,Graduate,MEd,Advanced Studies,,,,
+45,Tammy,Jackson,Stephanie,Tammy,Tammy.Jackson@converse.edu,950.793.4984,273,Pell,5227 Green Alley,Anderson,South Carolina,29625,2016,BA,Biology,Special Education,,,
+46,Jessica,Burns,Helen,Helen,Helen.Burns@converse.edu,250.929.9307,200,Pell,09 Heffernan Junction,Portland,Oregon,97232,2015,BA,Spanish,,,,
+47,Ruby,Gordon,Frances,Ruby,Ruby.Gordon@converse.edu,529.658.1479,161,Andrews,7 Eggendart Way,Roanoke,Virginia,24004,Converse II Senior,BA,Music,,,,
+48,Diane,Phillips,Karen,Diane,Diane.Phillips@converse.edu,096.885.5753,116,Kate,88 Calypso Park,Aurora,Colorado,80045,Converse II Freshman,BM,Undeclared,,,,
+49,Kathy,Johnson,Catherine,Kathy,Kathy.Johnson@converse.edu,579.208.0892,479,Kate,514 Stone Corner Avenue,Decatur,Georgia,30033,Converse II Freshman,BFA,Undeclared,,,,
+50,Alice,Flores,Annie,Annie,Annie.Flores@converse.edu,650.293.9060,290,Pell,91490 Bluestem Hill,Tucson,Arizona,85705,2015,BS,Business Administration,,,,
+51,Cynthia,Fernandez,Julie,Cynthia,Cynthia.Fernandez@converse.edu,099.995.7143,317,Pell,8 Nova Pass,Huntsville,Alabama,35810,Converse II Sophomore,BA,History,,,,
+52,Annie,Sanders,Anna,Annie,Annie.Sanders@converse.edu,654.831.9266,497,Cudd,636 Bluestem Park,Lynchburg,Virginia,24503,Graduate,MEd,Special Education,,,,
+53,Susan,Powell,Heather,Susan,Susan.Powell@converse.edu,370.165.1966,298,Kate,91 Lighthouse Bay Terrace,Fresno,California,93750,2015,BA,Mathematics,,,,
+54,Laura,Marshall,Carolyn,Laura,Laura.Marshall@converse.edu,879.159.3891,406,Howard,71891 Duke Park,Columbia,South Carolina,29215,Converse II Junior,BA,Elementary Education,,,,
+55,Jennifer,Hart,Karen,Jennifer,Jennifer.Hart@converse.edu,328.879.2765,236,Williams,07 Huxley Drive,Topeka,Kansas,66699,Converse II Senior,BA,History,,,,
+56,Andrea,Crawford,Heather,Heather,Heather.Crawford@converse.edu,646.832.0216,266,Cudd,72093 Annamark Road,Hagerstown,Maryland,21747,Converse II Freshman,BA,Undeclared,,,,
+57,Mary,Alexander,Sara,Mary,Mary.Alexander@converse.edu,319.358.1112,370,Kate,8693 Granby Court,Tucson,Arizona,85748,Converse II Senior,BS,Accounting,,,,
+58,Jennifer,Black,Michelle,Jennifer,Jennifer.Black@converse.edu,947.980.2353,351,Dexter,0 Hoepker Park,Tampa,Florida,33661,Converse II Junior,BA,Special Education,Religion,,,
+59,Laura,Baker,Christina,Laura,Laura.Baker@converse.edu,608.433.8950,322,Andrews,8331 Monterey Alley,Washington,District of Columbia,20566,2016,BM,Performance,,,,
+60,Robin,Gordon,Emily,Robin,Robin.Gordon@converse.edu,496.323.8927,365,Dexter,868 Hoepker Way,Erie,Pennsylvania,16565,Converse II Sophomore,BS,Business Administration,,,,
+61,Annie,Washington,Donna,Annie,Annie.Washington@converse.edu,580.050.6596,397,Howard,059 Anniversary Drive,Santa Cruz,California,95064,2018,BA,Undeclared,,,,
+62,Emily,Ferguson,Wanda,Wanda,Wanda.Ferguson@converse.edu,655.042.9311,188,Kate,26 South Junction,Metairie,Louisiana,70005,Graduate,MAT,Secondary Education,,,,
+63,Lois,Shaw,Christine,Lois,Lois.Shaw@converse.edu,022.142.7994,333,Howard,79 Mosinee Trail,Danbury,Connecticut,06816,2017,BA,Theatre,Musical Theatre,,,
+64,Marilyn,Cooper,Ruth,Ruth,Ruth.Cooper@converse.edu,478.170.8230,497,Andrews,719 Lawn Lane,Saint Louis,Missouri,63126,2016,BS,Economics,,,,
+65,Rebecca,Stevens,Sandra,Sandra,Sandra.Stevens@converse.edu,820.745.5274,274,Howard,770 Manitowish Terrace,Lexington,Kentucky,40581,Converse II Freshman,BA,Undeclared,,,,
+66,Carolyn,Fuller,Deborah,Carolyn,Carolyn.Fuller@converse.edu,575.099.9896,162,Belk,2238 Waywood Street,Wichita,Kansas,67260,Converse II Senior,BA,Early Childhood Education,Art Education,,,
+67,Theresa,Wood,Mary,Theresa,Theresa.Wood@converse.edu,458.327.6011,289,Williams,1982 Ridge Oak Way,San Francisco,California,94132,2017,BS,Accounting,,,,
+68,Janet,Garza,Rachel,Janet,Janet.Garza@converse.edu,648.145.5925,428,Kate,203 Service Street,Nashville,Tennessee,37250,2015,BS,Business Administration,,,,
+69,Marie,Medina,Marie,Marie,Marie.Medina@converse.edu,911.437.9734,428,Pell,0 Harbort Trail,Albany,New York,12232,Converse II Senior,BS,Biology,,,,
+70,Theresa,Hernandez,Judith,Theresa,Theresa.Hernandez@converse.edu,328.174.2664,141,Howard,317 Roxbury Plaza,Baltimore,Maryland,21265,Converse II Senior,BS,Accounting,,,,
+71,Tina,Nguyen,Annie,Annie,Annie.Nguyen@converse.edu,292.159.2426,317,Howard,37241 Westridge Crossing,Fort Worth,Texas,76162,Converse II Junior,BA,Philosophy,Early Childhood Education,,,
+72,Angela,Griffin,Tina,Angela,Angela.Griffin@converse.edu,269.692.7765,347,Dexter,55 Nevada Way,Indianapolis,Indiana,46216,2018,BA,Undeclared,,,,
+73,Margaret,Peters,Julia,Margaret,Margaret.Peters@converse.edu,716.957.7504,473,Cudd,6914 Hermina Park,Charlotte,North Carolina,28242,2016,BS,Economics,,,,
+74,Beverly,Adams,Christine,Christine,Christine.Adams@converse.edu,532.899.1279,365,Williams,861 Comanche Place,Fort Worth,Texas,76115,2017,BA,Elementary Education,Art Education,,,
+75,Irene,Crawford,Jean,Irene,Irene.Crawford@converse.edu,693.876.4586,342,Cudd,2 Meadow Valley Place,El Paso,Texas,88569,Converse II Senior,BS,Economics,,,,
+76,Virginia,Wells,Linda,Virginia,Virginia.Wells@converse.edu,405.024.7130,140,Dexter,970 Esch Terrace,San Diego,California,92105,2015,BA,Mathematics,,,,
+77,Mildred,Rivera,Sara,Mildred,Mildred.Rivera@converse.edu,647.648.5977,347,Williams,125 Drewry Pass,Amarillo,Texas,79176,Graduate,MFT,Marriage and Family Therapy,,,,
+78,Judy,Daniels,Beverly,Judy,Judy.Daniels@converse.edu,631.151.4373,160,Howard,797 Bultman Terrace,Washington,District of Columbia,20268,Converse II Senior,BA,Politics,,,,
+79,Frances,Romero,Rebecca,Frances,Frances.Romero@converse.edu,650.913.1597,150,Williams,47 Kinsman Junction,Newton,Massachusetts,02458,Converse II Sophomore,BA,Biology,Mathematics,,,
+80,Michelle,Miller,Judy,Michelle,Michelle.Miller@converse.edu,483.174.8029,300,Andrews,40 Morningstar Way,Philadelphia,Pennsylvania,19125,Converse II Freshman,BS,Undeclared,,,,
+81,Alice,Hart,Sandra,Alice,Alice.Hart@converse.edu,499.866.0946,106,Cudd,75877 School Way,Harrisburg,Pennsylvania,17110,Graduate,MM,Performance,,,,
+82,Helen,Reid,Linda,Helen,Helen.Reid@converse.edu,207.001.6247,403,Williams,940 Manufacturers Trail,Albuquerque,New Mexico,87110,Converse II Sophomore,BS,Accounting,Chemistry,,,
+83,Robin,Simpson,Susan,Robin,Robin.Simpson@converse.edu,953.452.0522,354,Belk,94335 Mesta Street,Myrtle Beach,South Carolina,29579,2018,BFA,Undeclared,,,,
+84,Cynthia,Butler,Betty,Cynthia,Cynthia.Butler@converse.edu,411.827.4050,466,Pell,2 Dwight Alley,Tulsa,Oklahoma,74116,Converse II Freshman,BA,Undeclared,,,,
+85,Joyce,Jacobs,Barbara,Joyce,Joyce.Jacobs@converse.edu,457.475.2749,288,Pell,02987 Nobel Circle,Fort Lauderdale,Florida,33310,Converse II Freshman,BA,Undeclared,,,,
+86,Denise,Murray,Phyllis,Denise,Denise.Murray@converse.edu,587.699.1389,171,Pell,18365 Truax Drive,Salt Lake City,Utah,84152,2016,BA,History,,,,
+87,Sarah,Russell,Gloria,Gloria,Gloria.Russell@converse.edu,910.880.2010,108,Kate,20190 Maywood Avenue,Migrate,Kentucky,41905,2016,BA,Musical Theatre,,,,
+88,Denise,Holmes,Betty,Denise,Denise.Holmes@converse.edu,731.661.0718,441,Williams,0 Artisan Road,Jackson,Mississippi,39282,2015,BS,Business Administration,,,,
+89,Katherine,Alexander,Lillian,Lillian,Lillian.Alexander@converse.edu,465.784.7913,381,Pell,30 Northview Avenue,Seattle,Washington,98166,Graduate,EdS,Literacy,,,,
+90,Deborah,Gonzalez,Angela,Deborah,Deborah.Gonzalez@converse.edu,202.392.9789,305,Andrews,12152 Chinook Hill,Birmingham,Alabama,35215,2015,BA,Philosophy,,,,
+91,Julia,Roberts,Ruth,Ruth,Ruth.Roberts@converse.edu,780.106.2899,347,Kate,35 Tennessee Parkway,Whittier,California,90605,2018,BA,Undeclared,,,,
+92,Judy,Wallace,Diana,Judy,Judy.Wallace@converse.edu,713.924.7391,258,Cudd,2 Almo Terrace,Cleveland,Ohio,44185,Converse II Senior,BFA,Studio Art,,,,
+93,Heather,Clark,Jean,Jean,Jean.Clark@converse.edu,028.177.3535,230,Kate,4526 Dawn Circle,Baton Rouge,Louisiana,70815,2016,BA,Elementary Education,,,,
+94,Deborah,Dixon,Karen,Karen,Karen.Dixon@converse.edu,850.968.6090,471,Belk,7 Almo Road,Pueblo,Colorado,81005,Converse II Sophomore,BFA,Creative and Professional Writing,,,,
+95,Janet,Thomas,Joan,Janet,Janet.Thomas@converse.edu,386.052.1097,264,Belk,587 Pleasure Pass,Madison,Wisconsin,53710,2017,BA,Accounting,,,,
+96,Nancy,Lynch,Kathy,Nancy,Nancy.Lynch@converse.edu,113.203.6478,241,Williams,3 Thompson Way,New York City,New York,10024,Converse II Junior,BS,Economics,Business Administration,,,
+97,Deborah,Payne,Lois,Deborah,Deborah.Payne@converse.edu,549.850.3402,224,Howard,6 Iowa Road,Florence,South Carolina,29505,2015,BA,Special Education,Art Therapy,,,
+98,Andrea,Butler,Cynthia,Andrea,Andrea.Butler@converse.edu,142.483.0408,112,Dexter,99 Namekagon Circle,Muskegon,Michigan,49444,Graduate,MFT,Marriage and Family Therapy,,,,
+99,Irene,Nichols,Christina,Irene,Irene.Nichols@converse.edu,970.470.8880,358,Howard,665 Hanson Lane,Brooklyn,New York,11247,2018,BFA,Undeclared,,,,
+100,Janice,Rivera,Jessica,Janice,Janice.Rivera@converse.edu,359.756.0244,150,Belk,5 Anniversary Court,Grand Rapids,Michigan,49560,Converse II Sophomore,BS,Biology,,,,
+101,Glenn,Abel,,Glenn,glenn.abel@converse.edu,,,Wilson,,,,,staff,,,,864.596.9705,Online Experience Manager,Communications
+102,Leah,Anderson,,Leah,leah.anderson@converse.edu,,211,Montgomery Student Center,,,,,staff,,,,864.596.9406,Public Relations Manager,Communications
+103,Dianne,Ansley,,Dianne,dianne.ansley@converse.edu,,363,Wilson,,,,,staff,,,,864.577.2088,Director of Gift Planning,Institutional Advancement
+104,Lydia,Anthony,,Lydia,lydia.anthony@converse.edu,,303,Wilson,,,,,staff,,,,864.596.9681,Web Content Manager,Communications
+105,Wendi,Arms,W.,Wendi,wendi.arms@converse.edu,,107,Mickel Library,,,,,staff,,,,864.596.9074,Instructor of Voice/Music Librarian,Mickel Library
+106,Barbara,Austin,,Barbara,barbara.austin@converse.edu,,105,Ezell,,,,,staff,,,,864.596.9745,Administrative Assistant/Budget Manager,Education and Graduate Studies
+107,John,Bald,M.,John,john.bald@converse.edu,,402,Wilson,,,,,staff,,,,864.596.9067,Associate Professor of Theatre,Theatre and Dance
+108,Jeffrey,Barker,,Jeffrey,jeff.barker@converse.edu,,206,Carmichael,,,,,staff,,,,864.596.9091,"Vice President for Academic Affairs and Dean of the School of Humanities and Sciences, Professor of Philosophy",Religion and Philosophy
+109,Ruth,Beals,,Ruth,ruth.beals@converse.edu,,209-L,Milliken Art Building,,,,,staff,,,,864.596.9673,Owings Associate Professor of Interior Design and Coordinator of Interior Design,Art and Design
+110,David,Berry,,David,david.berry@converse.edu,,210,Blackman Music Hall,,,,,staff,,,,864.596.9021,Professor of Musicology and Composition,Petrie School of Music
+111,Sheila,Bishop,,Sheila,sheila.bishop@converse.edu,,202,Carnegie,,,,,staff,,,,864.596.9034,Accounts Payable Administrator,Accounting and Administration
+112,Linda,Blackwood,,Linda,linda.blackwood@converse.edu,,210,Carmichael,,,,,staff,,,,864.596.9695,Assistant to the Registrar/Specialist,Finance and Registration Center
+113,Andrew,Blanchard,,Andrew,andrew.blanchard@converse.edu,,213-L,Milliken Art Building,,,,,staff,,,,864.596.9179,Associate Professor of Art and Coordinator of Studio Art,Art and Design
+114,Ansley,Boggs,,Ansley,ansley.boggs@converse.edu,,109E,Carmichael,,,,,staff,,,,864.596.9084,Associate Professor/Director of Special Education and Teacher Education &amp; Certification,Education and Graduate Studies
+115,Kathryn,Boucher,,Kathryn,kathryn.boucher@converse.edu,,115,Milliken,,,,,staff,,,,864.596.9214,Director of Milliken Art Gallery,Art and Design
+116,Elizabeth,Bouldin,,Elizabeth,elizabeth.bouldin@converse.edu,,308A,Carmichael,,,,,staff,,,,864.596.9102,Visiting Assistant Professor of History,History and Politics
+117,Pamela,Bradley,,Pamela,pamela.bradley@converse.edu,,106,Ezell,,,,,staff,,,,864.596.9220,Administrative Assistant to the Dean of Graduate Studies and Director of Gifted Education,Education and Graduate Studies
+118,Joseph,Bradley,,Joseph,joseph.bradley@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+119,Stacey,Brewer,,Stacey,stacey.brewer@converse.edu,,President&#039;s Office,Wilson,,,,,staff,,,,864.596.9050,Assistant to the President,President&#039;s Office
+120,Janet,Broome,,Janet,janet.broome@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9042,Assistant Director for Operations,Admission
+121,Jeff,Brotherton,,Jeff,jeff.brotherton@converse.edu,,319,Phifer Hall,,,,,staff,,,,864.596.9402,Associate Professor of Chemistry,"Biology, Chemistry and Physics"
+122,Laura,Brown,Feitzinger,Laura,laura.brown@converse.edu,,305H,Carmichael,,,,,staff,,,,864.596.9115,Associate Professor of English; Co-director of the Nisbet Honors Program,English/Creative and Professional Writing
+123,Peter,Brown,H.,Peter,peter.brown@converse.edu,,221,Kuhn,,,,,staff,,,,864.596.9156,"Assistant Professor of Computer Science, Assistant Director of Distance Learning",Mathematics and Computer Science
+124,Mary,Brown,,Mary,mary.brown@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9095,Registrar,Finance and Registration Center
+125,Anna,Burns,,Anna,anna.burns@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9288,Admission Counselor,Admission
+126,B.,Bynum,Brant,Brant,brant.bynum@converse.edu,,205,Montgomery,,,,,staff,,,,864.596.9092,"Associate VP for Academic Affairs Director of Student Success, Associate Professor of Spanish","Languages, Cultures and Literatures"
+127,Cynthia,Callesen,,Cynthia,cynthia.callesen@converse.edu,,,Gee Dining Hall,,,,,staff,,,,864.596.9616,Administrative Assistant,Dining
+128,Kimberly,Campbell,D.,Kimberly,kimberly.campbell@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9032,Student Billing Coordinator,Finance and Registration Center
+129,Evann,Carpenter,,Evann,evann.carpenter@converse.edu,,108,The Weisiger Center,,,,,staff,,,,864.596.9388,Sports Information Director,Athletics
+130,Annette,Carswell,,Annette,annette.carswell@converse.edu,,205,Carnegie,,,,,staff,,,,864.596.9033,Assistant to the VP for Finance and Payroll Administrator,Accounting and Administration
+131,Paula,Cash,,Paula,paula.cash@converse.edu,,210C,Milliken,,,,,staff,,,,864.596.9181,Administrative Assistant,Art and Design
+132,Wayne,Cheser,,Wayne,david.cheser@converse.edu,,103,Carmichael,,,,,staff,,,,864.596.9083,Associate Professor of Education Director of Early Childhood Education Programs Director of NCATE Accreditation,Education and Graduate Studies
+133,Taylor,Clark,,Taylor,taylor.clark@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9336,Admission Counselor and E-Communications Manager,Admission
+134,Carrie,Coleman,Hill,Carrie,carrie.coleman@converse.edu,,354,Wilson,,,,,staff,,,,864.596.9053,Advancement Communications Manager,Institutional Advancement
+135,Mark,Collier,A.,Mark,mark.collier@converse.edu,,101,Mickel Library,,,,,staff,,,,864.596.9076,"Coordinator of Reference and Collections, Associate Librarian",Mickel Library
+136,Sean,Collum,,Sean,sean.collum@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9143,Associate Director of Financial Planning,Finance and Registration Center
+137,Zach,Corbitt,,Zach,zach.corbitt@converse.edu,,331,Kuhn,,,,,staff,,,,864.596.9215,Chief Information Officer,Campus Technology
+138,Joy,Couch,,Joy,joy.couch@converse.edu,,209,Marsha H. Gibbs,,,,,staff,,,,864.577.2059,Athletic Director,Athletics
+139,Beth,Couture,,Beth,beth.couture@converse.edu,,105,The Weisiger Center,,,,,staff,,,,864.596.9679,Head Basketball Coach,Athletics
+140,Amy,Cox,,Amy,amy.cox@converse.edu,,305,Kuhn,,,,,staff,,,,864.596.9087,"Associate Professor of Marketing/Chair, Department of Economics, Accounting and Business","Economics, Accounting, and Business"
+141,Dianne,Crocker,,Dianne,dianne.crocker@converse.edu,,203,Carnegie,,,,,staff,,,,864.596.9028,Controller,Accounting and Administration
+142,Kyle,Crowder,,Kyle,kyle.crowder@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+143,Rebecca,Dalton,G.,Rebecca,becky.dalton@converse.edu,,104,Mickel Library,,,,,staff,,,,864.596.9020,Administrative Assistant and Acquisitions Supervisor,Mickel Library
+144,Kevin,DeLapp,,Kevin,kevin.delapp@converse.edu,,110D,Carmichael,,,,,staff,,,,864.596.9660,"Dr. Harold E. Fleming Chair of Philosophy and Chair, Department of Religion and Philosophy",Religion and Philosophy
+145,Molly,Duesterhaus,,Molly,molly.duesterhaus@converse.edu,,204B,Montgomery Student Center,,,,,staff,,,,864.596.9614,Vice President for Student Life and Dean of Students,Student Life
+146,Jean,Dunbar,E.,Jean,jean.dunbar@converse.edu,,223,Kuhn,,,,,staff,,,,864.596.9171,Professor of Mathematics,Mathematics and Computer Science
+147,Joe,Dunn,P.,Joe,joe.dunn@converse.edu,,308D,Carmichael,,,,,staff,,,,864.596.9101,"Charles A. Dana Professor of History and Politics, Chair of History and Politics, Director of Summer Programs",History and Politics
+148,Andrea,Elliott,,Andrea,andrea.elliott@converse.edu,,202,Milliken,,,,,staff,,,,864.596.9328,Instructor of Art Education,Art and Design
+149,Neval,Erturk,,Neval,neval.erturk@converse.edu,,216,Phifer Hall,,,,,staff,,,,864.596.9210,"Associate Professor of Biology and Chair of Biology, Chemistry &amp; Physics Department","Biology, Chemistry and Physics"
+150,Jill,Feist,,Jill,jill.feist@converse.edu,,369,Wilson,,,,,staff,,,,864.596.9404,Data Specialist,Admission
+151,Bobby,Finch,,Bobby,bobby.finch@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,"Shift Sergeant, Campus Safety",Campus Safety
+152,Witney,Fisher,,Witney,witney.fisher@converse.edu,,206B,Montgomery Student Center,,,,,staff,,,,864.596.9027,Assistant Dean of Students for Development and Success,Center for Student Development and Success
+153,Kathy,Flaherty,,Kathy,kathy.flaherty@converse.edu,,210,Carmichael,,,,,staff,,,,864.596.9096,Data Entry/Generalist,Finance and Registration Center
+154,Betsy,Fleming,,Betsy,betsy.fleming@converse.edu,,President&#039;s Office,Wilson,,,,,staff,,,,864.596-9050,President,President&#039;s Office
+155,Sherry,Fohr,,Sherry,sherry.fohr@converse.edu,,111B,Carmichael,,,,,staff,,,,864.596.9100,Associate Professor of Religion and Co-Director of the Women&#039;s Studies Program,Religion and Philosophy
+156,Angela,Fowler,,Angela,,,,,,,,,staff,,,,,Financial Planning Counselor,Financial Planning
+157,Patricia,Foy,S.,Patricia,patti.foy@converse.edu,,132,Blackman Music Hall,,,,,staff,,,,864.596.9172,"Director of the Petrie School of Music, Professor of Music Education",Petrie School of Music
+158,Nancy,Gage,Smith,Nancy,nancy.gage@converse.edu,,359,Wilson,,,,,staff,,,,864.596.9504,Director of Advancement Services,Institutional Advancement
+159,Donna,Gardner,P.,Donna,donna.gardner@converse.edu,,110,Andrews,,,,,staff,,,,864.596.9258,Wellness Center Coordinator,Health Services
+160,Nancy,Garmroth,,Nancy,nancy.garmroth@converse.edu,,200,Carmichael,,,,,staff,,,,864.596-9019,Director of Financial Planning,Finance and Registration Center
+161,Bethany,Garr,,Bethany,bethany.garr@converse.edu,,112,Andrews,,,,,staff,,,,864.596.9595,Director of Counseling,Health Services
+162,Carol,Gibbs,,Carol,carol.gibbs@converse.edu,,208,Montgomery,,,,,staff,,,,864.596.9138,Mail Supervisor,Mail Room
+163,Wes,Godwin,,Wes,wes.godwin@converse.edu,,329,Kuhn,,,,,staff,,,,864.577.2067,Web Developer,Campus Technology
+164,Kathy,Good,,Kathy,kathy.good@converse.edu,,104,Ezell,,,,,staff,,,,864.596.9082,Dean of the School of Education &amp; Graduate Studies,Education and Graduate Studies
+165,Robin,Gorman,,Robin,,,,,,,,,staff,,,,,Regional Development Officer,Institutional Advancement
+166,Cathy,Gowan,,Cathy,cathy.gowan@converse.edu,,206,Montgomery Student Center,,,,,staff,,,,864.596.9389,Director of Internships and Corporate Relations,Center for Student Development and Success
+167,Pamela,Greenway,,Pamela,pamela.greenway@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9019,Assistant to the Director of Financial Planning,Finance and Registration Center
+168,Susanne,Gunter,Floyd,Susanne,susanne.gunter@converse.edu,,,Milliken 210B,,,,,staff,,,,864.596.9126,"Assistant Professor of Art Education, Chair Department of Art and Design",Education and Graduate Studies
+169,Marissa,Haben,,Marissa,marissa.haben@converse.edu,,204,Carnegie,,,,,staff,,,,"864.596.9213, Fax: 864.596.9158",Human Resources Specialist,Human Resources
+170,Mirko,Hall,M.,Mirko,mirko.hall@converse.edu,,305F,Carmichael,,,,,staff,,,,864.596.9109,"Associate Professor of German Studies and Chair of Languages, Cultures and Literatures","Languages, Cultures, and Literatures"
+171,Clara,Hallar,Jane,Clara,clara.hallar@converse.edu,,202H,Montgomery,,,,,staff,,,,864.596.9187,Student Activities Coordinator/Resident Director,Student Life
+172,Rachel,Hansen,,Rachel,rachel.hansen@converse.edu,,251,Wilson,,,,,staff,,,,864.577.2082,Assistant Director of Enrollment Marketing and Communications,Admission
+173,Emily,Harbin,,Emily,emily.harbin@converse.edu,,204,Mickel Library,,,,,staff,,,,864.596.9597,Assistant Professor of English and Director of the Writing Center,English/Creative and Professional Writing
+174,Kelly,Harrison-Maguire,,Kelly,kelly.harrison-maguire@converse.edu,,205E,Carmichael,,,,,staff,,,,864.596.9081,"Associate Professor of Education/Director of Elementary Education, Student Teaching",Education and Graduate Studies
+175,Rafael,Hernández,E.,Rafael,rafael.hernandez@converse.edu,,305B,Carmichael,,,,,staff,,,,864.596.9609,Reeves Brothers Professor of Spanish,"Languages, Cultures and Literatures"
+176,Sharalynn,Hicks,,Sharalynn,sharalynn.hicks@converse.edu,,Twichell Auditorium,The Lawson Academy Wing,,,,,staff,,,,864.596.9022,"Assistant Director of the Lawson Academy of the Arts, Instructor of Piano",Lawson Academy of the Arts
+177,Richard,Higgs,,Richard,richard.higgs@converse.edu,,230,Blackman Music Hall,,,,,staff,,,,864.596.9021,"Dean, School of the Arts",School of the Arts
+178,Renée,Hill,,Renée,renee.hill@converse.edu,,204,Montgomery Student Center,,,,,staff,,,,864.596.9614,Administrative Assistant to the Vice President of and Division of Student Life,Student Life
+179,Rachel,Hill,,Rachel,rachel.hill@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9728,Financial Aid Specialist,Finance and Registration Center
+180,Miles,Hoffman,,Miles,miles.hoffman@converse.edu,,209,Blackman Music Hall,,,,,staff,,,,864.596.9021,Associate Professor of Viola,Petrie School of Music
+181,Kathy,Holt,,Kathy,kathy.holt@converse.edu,,230,Blackman Music Hall,,,,,staff,,,,864.596.9021,Administrative Assistant,School of the Arts
+182,Boone,Hopkins,,Boone,boone.hopkins@converse.edu,,455,Wilson,,,,,staff,,,,864.596.9183,"Assistant Professor of Theatre/Chair, Department of Theatre &amp; Dance",Theatre &amp; Dance
+183,Chandra,Hopkins,Owenby,Chandra,chandra.hopkins@converse.edu,,457,Wilson,,,,,staff,,,,864.596.9427,Assistant Professor of Theatre,Theatre and Dance
+184,Marc,Howard,,Marc,marc.howard@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+185,Jane,Hughes,,Jane,jane.hughes@converse.edu,,211L,Milliken,,,,,staff,,,,864.596.9175,Assistant Professor of Interior Design,Art and Design
+186,Dennis,Hughes,,Dennis,dennis.hughes@converse.edu,,204,Carnegie,,,,,staff,,,,864.596.9029,Director of Human Resources,Human Resources
+187,Woodrow,"Hughes, Jr.",W.,Woodrow,woody.hughes@converse.edu,,306,Kuhn,,,,,staff,,,,864.596.9089,Associate Professor of Economics,"Economics, Accounting, and Business"
+188,Gretchen,Hurlbut,,Geri,geri.hurlbut@converse.edu,,207-L,Milliken Art Building,,,,,staff,,,,864.596.9314,"Coordinator of the Art Therapy Program, Associate Professor of Art Therapy",Art and Design
+189,Hayden,Hutchings,,Hayden,hayden.hutchings@converse.edu,,,Facilities,,,,,staff,,,,864.596.9744,Director of Facilities,Facilities
+190,James,Hymas,A.,James,jim.hymas@converse.edu,,222,Kuhn,,,,,staff,,,,864.596.9128,"Associate Professor of Mathematics; Chair of Mathematics, Physics, and Computer Science; and Faculty Intercollegiate Athletic Representative",Mathematics and Computer Science
+191,Catherine,Inabnit,,Catherine,cathy.inabnit@converse.edu,,353,Wilson,,,,,staff,,,,864.596.9217,Associate Vice President for Development,Institutional Advancement
+192,Susan,Jackson,,Susan,susan.jackson@converse.edu,,,Facilities,,,,,staff,,,,864.596.9744,Administrative Assistant,Facilities
+193,Angela,Janulis,Mills,Angela,angie.janulis@converse.edu,,206,Carmichael,,,,,staff,,,,864.596.9091,Administrative Assistant to the Vice President for Academic Affairs and Dean of the School of Humanities and Sciences,Academic Affairs
+194,Douglas,Jensen,,Douglas,doug.jensen@converse.edu,,215,Phifer Hall,,,,,staff,,,,864.596.9123,Associate Professor of Biology,"Biology, Chemistry and Physics"
+195,Sarah,Johnson,,Sarah,sarah.johnson@converse.edu,,102,Blackman Music Hall,,,,,staff,,,,864.596.9165,Associate Professor of Violin,Petrie School of Music
+196,Rick,Jolley,,Rick,rick.jolley@converse.edu,,,Carnegie,,,,,staff,,,,864.596.9041,Senior Director of Facility Services and Planning,Accounting and Administration
+197,Cathy,Jones,,Cathy,cathy.jones@converse.edu,,305C,Carmichael,,,,,staff,,,,864.596.9107,Associate Professor of French and Italian and Director of the Women’s Studies Program,"Languages, Cultures and Literatures"
+198,Keith,Jones,,Keith,keith.jones@converse.edu,,108,Blackman Music Hall,,,,,staff,,,,864.596.9004,"Professor of Voice and Choirs, Conductor of Converse Chorale and Spartanburg Festival Chorus",Petrie School of Music
+199,Larry,Jones,,Larry,larry.jones@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9061,Director of Campus Safety,Campus Safety
+200,Julie,Jones,,Julie,julie.jones@converse.edu,,109A,Carmichael,,,,,staff,,,,864.596.9468,"Assistant Professor of Education, Director of Middle Level Programs",Education and Graduate Studies
+201,Kyle,Keefer,,Kyle,kyle.keefer@converse.edu,,111A,Carmichael,,,,,staff,,,,864.596.9106,Associate Professor of Religion,Religion and Philosophy
+202,Richard,Keen,,Richard,richard.keen@converse.edu,,319,Kuhn,,,,,staff,,,,864.596.9135,"Associate Professor of Psychology, Department of Psychology, Health and Physical Education",Psychology
+203,Brandon,Kennedy,,Brandon,brandon.kennedy@converse.edu,,329,Kuhn,,,,,staff,,,,864.596.9572,PC and Multimedia Specialist,Campus Technology
+204,Kelly,Kennedy,,Kelly,kelly.kennedy@converse.edu,,204B,Ezell,,,,,staff,,,,864.596.9622,Assistant Professor and Director ofMarriage and Family Therapy Program,Education and Graduate Studies
+205,Mike,Kennedy,,Mike,mike.kennedy@converse.edu,,357,Wilson,,,,,staff,,,,864.596.9390,Assistant Vice President for Philanthropy,Institutional Advancement
+206,Kat,Kilpatrick,,Kat,kat.kilpatrick@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9048,Admission Counselor,Admission
+207,Susana,Lalama,,Susana,susana.lalama@converse.edu,,104,Blackman Music Hall,,,,,staff,,,,864.596.9121,Assistant Professor of Music,Petrie School of Music
+208,Beth,Lancaster,,Beth,beth.lancaster@converse.edu,,,Montgomery 211,,,,,staff,,,,864.596.9704,Director of Media Relations,Communications
+209,Leigh,Lanford,,Leigh,leigh.lanford@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9599,Admission Counselor,Admission
+210,Janet,LeFrancois,R.,Janet,jan.lefrancois@converse.edu,,321,Kuhn,,,,,staff,,,,864.596.9131,Associate Professor of Psychology,Psychology
+211,Marie,LePage,,Marie,marie.lepage@converse.edu,,320,Kuhn,,,,,staff,,,,864.596.9130,Assistant Professor of Psychology,Psychology
+212,Robin,Leslie,,Robin,robin.leslie@converse.edu,,201,Carnegie,,,,,staff,,,,864.596.9031,Vice President for Finance and Administration,Accounting and Administration
+213,Kevin,Licht,,Kevin,kevin.licht@converse.edu,,102,The Weisiger Center,,,,,staff,,,,864.277.2055,Cross Country and Track Coach,Athletics
+214,Jason,Loscuito,,Jason,jason.loscuito@converse.edu,,201,Montgomery Student Center,,,,,staff,,,,864.596.9078,"College Chaplain and Director of Religious Life, Bonner Program and Service Learning",Student Life
+215,Roger,Luttrell,F.,Roger,roger.luttrell@converse.edu,,301,Kuhn,,,,,staff,,,,864.596.9088,Associate Professor of Accounting,"Economics, Accounting, and Business"
+216,Susan,Lyle,,Susan,susan.lyle@converse.edu,,203,Blackman Music Hall,,,,,staff,,,,864.596.9173,Associate Professor of Voice,Petrie School of Music
+217,Marianna,MacIntyre,,Marianna,marianna.macintyre@converse.edu,,355,West Wilson,,,,,staff,,,,864.596.9759,Development Officer,Institutional Advancement
+218,Valerie,MacPhail,,Valerie,valerie.macphail@converse.edu,,207,Blackman Music Hall,,,,,staff,,,,864.596.9168,Assistant Professor of Voice,Petrie School of Music
+219,Laurie,Magalas,,Laurie,laurie.magalas@converse.edu,,,Montgomery Student Center,,,,,staff,,,,864.596.9138,Mail Clerk,Mail Room
+220,Delia,Malone,,Dee,dee.malone@converse.edu,,109B,Carmichael,,,,,staff,,,,864.596.9085,Assistant Professor of Education,Education and Graduate Studies
+221,Katie,Mancebo,,Katie,katie.mancebo@converse.edu,,210,Marsha H. Gibbs,,,,,staff,,,,864.577.2056,Head Tennis Coach,Athletics
+222,Nashieli,Marcano,,Nashieli,nashieli.marcano@converse.edu,,305 E,Carmichael,,,,,staff,,,,864.596.9302,Assistant Professor of Hispanic Studies,"Languages, Cultures and Literatures"
+223,Kathy,Martin,,Kathy,kathy.martin@converse.edu,,,Twichell Auditorium,,,,,staff,,,,864.596.9725,Box Office Attendant,Twichell Box Office
+224,Cindy,Mason,,Cindy,cindy.mason@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9592,Cash Receipts/Generalist,Finance and Registration Center
+225,Travis,Massey,,Travis,travis.massey@converse.edu,,,Facilities,,,,,staff,,,,864.596.9744,Maintenance Supervisor,Facilities
+226,W.,Maynard,Thomas,Thomas,tom.maynard@converse.edu,,302,Kuhn,,,,,staff,,,,864.596.9733,Instructor of Economics and Business,"Economics, Accounting, and Business"
+227,Ken,McAbee,,Ken,ken.mcabee@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+228,Cori,McClure,,Cori,cori.mcclure@converse.edu,,332,Kuhn,,,,,staff,,,,864.596.9675,Network Administrator,Campus Technology
+229,Monica,McCoy,,Monica,monica.mccoy@converse.edu,,323,Kuhn,,,,,staff,,,,864.596.9199,Professor of Psychology and Chair of Psychology Department,Psychology
+230,Thomas,McDaniel,,Thomas,tom.mcdaniel@converse.edu,,204,Carmichael,,,,,staff,,,,864.596.9015,Senior Vice President,Senior Vice President&#039;s Office
+231,Tania,McDuffie,,Tania,tania.mcduffie@converse.edu,,206D,Montgomery Student Center,,,,,staff,,,,864.577.2028,Director of Academic Accommodations and Tutoring Services,Center for Student Development and Success
+232,Patti,McGowan,,Patti,patti.mcgowan@converse.edu,,,The Weisiger Center,,,,,staff,,,,864.577.2050,Interim Head Golf Coach,Intercollegiate Athletics
+233,Natalie,McIntyre,,Natalie,natalie.mcintyre@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9026,"Shift Sergeant, Campus Safety",Campus Safety
+234,Arthur,McMaster,,Arthur,arthur.mcmaster@converse.edu,,230,Kuhn,,,,,staff,,,,864.596.9637,Adjunct Professor of English,English/Creative and Professional Writing
+235,Grace,Méndez,Elena,Elena,elena.mendez@converse.edu,,224,Kuhn,,,,,staff,,,,864.596.9127,Associate Professor of Physics,"Biology, Chemistry and Physics"
+236,Cynthia,Mercer,,Cynthia,cynthia.mercer@converse.edu,,203,Carnegie,,,,,staff,,,,864.596.9030,Senior Accountant II,Accounting and Administration
+237,Rhonda,Mingo,,Rhonda,rhonda.mingo@converse.edu,,204,Montgomery Student Center,,,,,staff,,,,864.596.9016,Assistant Dean of Students for Engagement and Learning,Student Life
+238,Benny,Mixon,,Benny,benny.mixon@converse.edu,,230,Blackman Music Hall,,,,,staff,,,,864.596.9021,Piano Curator,Petrie School of Music
+239,Sonya,Mode,,Sonya,sonya.mode@converse.edu,,329,Kuhn,,,,,staff,,,,864.596.9037,Office Coordinator,Campus Technology
+240,Margaret,Moore,S.,Margaret,margaret.moore@converse.edu,,105,Montgomery,,,,,staff,,,,864.577.2057,Associate Professor of Physical Education Director of Tarpon Sharks Program,Psychology
+241,Ashley,Moreira,,Ashley,ashley.moreira@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9043,Director of Recruitment,Admission
+242,Charles,Morgan,H.,Charles,charles.morgan@converse.edu,,305J,Carmichael,,,,,staff,,,,864.596.9112,Associate Professor of English,English/Creative and Professional Writing
+243,Dell,Morgan,,Dell,dell.morgan@converse.edu,,100,Mickel Library,,,,,staff,,,,864.596.9596,Interlibrary Loan/Document Delivery Supervisor,Mickel Library
+244,Paula,Morgan,,Paula,Paula.morgan@converse.edu,,Twichell Auditorium,The Lawson Academy Wing,,,,,staff,,,,864.596.9159,"Director of the Lawson Academy of the Arts, Instructor of Piano, Theory",Lawson Academy of the Arts
+245,Kay,Morgan,,Kay,kay.morgan@converse.edu,,,Twichell Auditorium,,,,,staff,,,,864.596.9725,Box Office Attendant,Twichell Box Office
+246,Brianne,Morith,,Brianne,brianne.morith@converse.edu,,,Weisiger,,,,,staff,,,,864.577.2048,Athletic Trainer,Athletics
+247,Sheryl,Moss,,Sheryl,sheryl.moss@converse.edu,,205D,Carmichael,,,,,staff,,,,864.596.9467,"Assistant Professor, School of Education and Graduate Studies",Education and Graduate Studies
+248,Greg,Mueller,,Greg,greg.mueller@converse.edu,,105,Milliken,,,,,staff,,,,864.596.9176,Assistant Professor of Sculpture,Art and Design
+249,Rick,Mulkey,,Rick,rick.mulkey@converse.edu,,202,Ezell,,,,,staff,,,,864.596.9111,"Director of the Creative Writing Program, Director of MFA in Creative Writing and Associate Professor of English",English/Creative and Professional Writing
+250,Betsy,Neely,Claire,Betsy,betsyclaire.neely@converse.edu,,114,Andrews,,,,,staff,,,,864.577.2030,College Counselor,Health Services
+251,Kyle,Newman,,Kyle,kyle.newman@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+252,Kimberly,Newton-Burgess,,Kimberly,kimberly.newton-burgess@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9746,Director of Post Traditional and Data Team,Admission
+253,McCree,O&#039;Kelley,,McCree,mccree.okelley@converse.edu,,454,Wilson,,,,,staff,,,,864.596.9430,Assistant Professor of Dance,Theatre and Dance
+254,Leigh,O&#039;Shields,,Leigh,leigh.oshields@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9049,Assistant Director of Admission for Guest Services,Admission
+255,Janae,O&#039;Shields,,Janae,janae.oshields@converse.edu,,Twichell Auditorium,The Lawson Academy Wing,,,,,staff,,,,864.596.9607,"Director, Fine Arts Day Camp",Lawson Academy of the Arts
+256,Melissa,Owens,,Melissa,melissa.owens@converse.edu,,453,Wilson,,,,,staff,,,,864.596.9162,Assistant Professor of Theatre,Theatre &amp; Dance
+257,Claire,Owings,,Claire,claire.owings@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9026,Administrative Assistant,Campus Safety
+258,Frazer,Pajak,S.,Frazer,,,,,,,,,staff,,,,,Visiting Associate Professor of Interior Design and Art Restoration Consultant,Art and Design
+259,Margaret,Park,,Margaret,margaret.park@converse.edu,,109D,Carmichael,,,,,staff,,,,864.596.9747,"Assistant Professor of Education, Director of Deaf and Hard of Hearing Program",Education and Graduate Studies
+260,Rick,Parlow,,Rick,rick.parlow@converse.edu,,,Marsha H. Gibbs Fieldhouse,,,,,staff,,,,864.577.2062,Head Soccer Coach,Intercollegiate Athletics
+261,Daniel,Parton,,Daniel,daniel.parton@converse.edu,,,Gee Dining Hall,,,,,staff,,,,864.596.9617,Catering Manager,Dining
+262,Cveta,Picarova,,Cveta,cveta.picarova@converse.edu,,202-D,Montgomery,,,,,staff,,,,864.596.9016,Director of Residential Life and First Year Programs,Student Life
+263,Isidro,Pineda,,Isidro,,,,Facilities,,,,,staff,,,,864.596.9744,Grounds Supervisor,Facilities
+264,Trevor,Pittman,,Trevor,trevor.pittman@converse.edu,,255,Wilson,,,,,staff,,,,864.596.9010,Associate Vice President of Enrollment Management and Services,Academic Affairs
+265,Ann,Pletcher,M.,Ann,ann.pletcher@converse.edu,,303,Kuhn,,,,,staff,,,,864.596.9086,Associate Professor of Accounting,"Economics, Accounting, and Business"
+266,Jeffrey,Poelvoorde,J.,Jeffrey,jeff.poelvoorde@converse.edu,,308C,Carmichael,,,,,staff,,,,864.596.9103,Associate Professor of Politics,History and Politics
+267,Becky,Poole,S.,Becky,bpoole@converse.edu,,102,Mickel Library,,,,,staff,,,,864.596.9071,Circulation Supervisor,Mickel Library
+268,Teresa,Prater,,Teresa,teresa.prater@converse.edu,,212L,Milliken Art Building,,,,,staff,,,,864.596.9178,Charles A. Dana Professor of Studio Art,Art and Design
+269,Donna,Rawls,,Donna,donna.rawls@converse.edu,,330,"Kuhn, 3rd Floor",,,,,staff,,,,864.596.9757,Database Programmer,Campus Technology
+270,Siegwart,Reichwald,,Siegwart,siegwart.reichwald@converse.edu,,106,Blackman Music Hall,,,,,staff,,,,864.596.9133,"Professor of Musicology, Conductor of Converse Symphony Orchestra",Petrie School of Music
+271,Terry,Rivera,,Terry,terry.rivera@converse.edu,,,Montgomery,,,,,staff,,,,864.596-9196,Sign Language Interpreter,Center for Student Development and Success
+272,Scott,Robbins,,Scott,scott.robbins@converse.edu,,230,Blackman Music Hall,,,,,staff,,,,864.596.9021,Professor of Musicology and Composition,Petrie School of Music
+273,Sharon,Robbins,,Sharon,sharon.robbins@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9648,Admission Counselor,Admission
+274,Mildred,Roche,,Mildred,mildred.roche@converse.edu,,105,Blackman Music Hall,,,,,staff,,,,864.596.9008,Director of Accompanying,Petrie School of Music
+275,Miranda,Rochester,,Miranda,miranda.rochester@converse.edu,,,Carnegie,,,,,staff,,,,864.596.9208,Accountant,Accounting and Administration
+276,Anita,Rose,,Anita,anita.rose@converse.edu,,305M,Carmichael,,,,,staff,,,,864.596.9114,Associate Professor of English and Chair of English Department,English/Creative and Professional Writing
+277,Lannie,Rudicill,,Lannie,lannie.rudicill@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9026,"Shift Sergeant, Campus Safety",Campus Safety
+278,Lincoln,Russell,,Lincoln,lincoln.russell@converse.edu,,,The Weisiger Center,,,,,staff,,,,864.577.2050,Head Equestrian Team Coach,Athletics
+279,Lisa,Schoer,,Lisa,lisa.schoer@converse.edu,,205C,Carmichael,,,,,staff,,,,864.596.9079,"Assistant Professor of Education Director of Administration &amp; Supervision Programs, Chair of Education, Programs Coordinator of PLT",Education and Graduate Studies
+280,Suzanne,Schuweiler,,Zan,zan.schuweiler@converse.edu,,208-L,Milliken Art Building,,,,,staff,,,,864.680-9691,Coordinator of Art History; Coordinator of Arts Management; Associate Professor of Art History,Art and Design
+281,Carol,Shultis,,Carol,carol.shultis@converse.edu,,,Blackman Music Hall 210C,,,,,staff,,,,864.596.9621,Assistant Professor of Music Therapy,Petrie School of Music
+282,Elizabeth,Simons,,Elizabeth,elizabeth.simons@converse.edu,,Alumnae Suite,Wilson,,,,,staff,,,,864.596.9058,Associate Director of Alumnae,Alumnae and Donor Relations
+283,Sarah,Spigner,G.,Sarah,sarah.spigner@converse.edu,,210A,Blackman Music Hall,,,,,staff,,,,864.596.9193,"Business Manager, School of the Arts",Petrie School of Music
+284,Sarah,Spigner,R.,Sarah,sarah.spigner2@converse.edu,,108,Mickel,,,,,staff,,,,864.596.9073,Cataloging Librarian,Mickel Library
+285,Brooke,Stanley,,Brooke,brooke.stanley@converse.edu,,103,The Weisiger Center,,,,,staff,,,,864.577.2050,Head Volleyball Coach,Intercollegiate Athletics
+286,David,Stansel,,David,david.stansel@converse.edu,,,Campus Safety Office,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+287,Sheran,Steading,,Sheran,sheran.steading@converse.edu,,,Ezell 201,,,,,staff,,,,864.596.9737,Coordinator of Field Placements,Education and Graduate Studies
+288,Edna,Steele,,Edna,edna.steele@converse.edu,,217,Phifer Hall,,,,,staff,,,,864.596.9120,Associate Professor of Biology,"Biology, Chemistry and Physics"
+289,Tammy,Stokes,,Tammy,tammy.stokes@converse.edu,,209,Carmichael,,,,,staff,,,,864.596.9147,Director of Converse II and Special Programs,Converse II
+290,Shannon,Stone,,Shannon,shannon.stone@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9748,Data Entry Specialist,Admission
+291,Jodi,Strehl,,Jodi,jodi.strehl@converse.edu,,216,Marsha H. Gibbs,,,,,staff,,,,864.596.9671,Assistant Athletic Director for Compliance,Athletics
+292,Sheri,Strickland,,Sheri,sheri.strickland@converse.edu,,317,Phifer Hall,,,,,staff,,,,864.596.9741,Assistant Professor of Chemistry,"Biology, Chemistry and Physics"
+293,Amanda,Szarzynski,,Amanda,amanda.szarzynski@converse.edu,,204A,Ezell,,,,,staff,,,,864.577.2084,Assistant Professor of Marriage and Family Therapy,Education and Graduate Studies
+294,Meg,Taylor,,Meg,sid@converse.edu,,,The Weisiger Center,,,,,staff,,,,864.577.2050,Sports Information Director,Athletics
+295,Marianna,Taylor,MacIntyre,Marianna,marianna.macintyre@converse.edu,,355,West Wilson,,,,,staff,,,,864.596.9759,Development Officer,Institutional Advancement
+296,Susan,Tekulve,,Susan,susan.tekulve@converse.edu,,310,Mickel Library,,,,,staff,,,,864.596.9186,Associate Professor of English,English/Creative and Professional Writing
+297,Erin,Templeton,E.,Erin,erin.templeton@converse.edu,,305K,Carmichael,,,,,staff,,,,864.596.9099,Anne Morrison Chapman Distinguished Professor of International Study,English/Creative and Professional Writing
+298,John,Theilmann,M.,John,john.theilmann@converse.edu,,312,Kuhn,,,,,staff,,,,864.596.9703,Andrew Helmus Distinguished Professor of History and Politics and Nisbet Honors Program Co-Director,History and Politics
+299,Terrell,Tracy,,Terrell,terrell.tracy@converse.edu,,103,Ezell,,,,,staff,,,,864.596.9529,Assistant Professor of Education; Director of Secondary English and Social Studies; Director of EDs Literacy,Education and Graduate Studies
+300,Ann,Tucker,,Ann,ann.tucker@converse.edu,,251,Wilson,,,,,staff,,,,864.596-9040,Office Manager/Data Specialist,Admission
+301,Wayne,Tucker,,Wayne,wayne.tucker@converse.edu,,,Campus Safety,,,,,staff,,,,864.596.9026,Campus Safety Officer,Campus Safety
+302,Rebecca,Turner,,Rebecca,rebecca.turner@converse.edu,,208,Blackman Music Hall,,,,,staff,,,,864.596.9001,Associate Professor of Voice,Petrie School of Music
+303,Kelly,Vaneman,McElrath,Kelly,kelly.vaneman@converse.edu,,101,Blackman Music Hall,,,,,staff,,,,864.596.9005,"Chair of Musicology and Composition, Associate Professor of Oboe and Musicology",Petrie School of Music
+304,Christopher,Vaneman,,Christopher,chris.vaneman@converse.edu,,202,Blackman Music Hall,,,,,staff,,,,864.596.9038,Associate Professor of Flute and Musicology,Petrie School of Music
+305,Alex,Vazquez,,Alex,alex.vazquez@converse.edu,,329,Kuhn,,,,,staff,,,,864.596.9738,Computer Services Specialist,Campus Technology
+306,Melissa,Walker,,Melissa,melissa.walker@converse.edu,,308B,Carmichael,,,,,staff,,,,864.596.9104,"George Dean Johnson, Jr. Professor of History, Humanities Divisional Coordinator",History and Politics
+307,Miya,Walker,,Miya,miya.evans-walker@converse.edu,,251,Wilson,,,,,staff,,,,864.596.9392,Admission Counselor,Admission
+308,Susan,Washburn,,Susan,susan.washburn@converse.edu,,109C,Carmichael,,,,,staff,,,,864.596.9638,"Assistant Professor of Education, Department Liaison with Recruiting Undergraduate Education Advisor",Education and Graduate Studies
+309,Douglas,Weeks,,Douglas,doug.weeks@converse.edu,,205,Blackman Music Hall,,,,,staff,,,,864.596.9006,Babcock Professor of Piano,Petrie School of Music
+310,Ryan,Weiss,,Ryan,ryan.weiss@converse.edu,,213,Marsha H. Gibbs,,,,,staff,,,,864.577.2061,Head Lacrosse Coach,Athletics
+311,Leslie,West,,Leslie,leslie.west@converse.edu,,206-C,Montgomery,,,,,staff,,,,864.596.9647,Director of Student Success Initiatives/Assistant Director of Residential Life,Center for Student Development and Success
+312,Corey,White,,Corey,corey.white@converse.edu,,214,Marsha H. Gibbs,,,,,staff,,,,864.577.2058,Head Swim Coach,Athletics
+313,Judith,Wiliford,,Judith,judy.wiliford@converse.edu,,109F,Carmichael,,,,,staff,,,,864.596.9398 and 864.596.9017,NCATE/Education Department Assistant,Education and Graduate Studies
+314,Sandra,Williams,,Sandra,sandra.williams@converse.edu,,,Facilities,,,,,staff,,,,864.596.9744,Housekeeping Supervisor,Facilities
+315,Jeffrey,Willis,R.,Jeffrey,jeffrey.willis@converse.edu,,301,Mickel Library,,,,,staff,,,,864.596.9216,Director of Archives and Special Collections,Mickel Library
+316,Sabrina,Wilson,J.,Sabrina,sabrina.wilson@converse.edu,,205,Montgomery Student Center,,,,,staff,,,,864.596.9027,Administrative Assistant,Center for Student Development and Success
+317,Libby,Wood,,Libby,libby.wood@converse.edu,,200,Carmichael,,,,,staff,,,,864.596.9095,Data Specialist,Finance and Registration Center
+318,Edward,Woodfin,C.,Edward,edward.woodfin@converse.edu,,308A,Carmichael,,,,,staff,,,,864.596.9102,Associate Professor of History,History and Politics
+319,Wade,Woodward,,Wade,wade.woodward@converse.edu,,103,Mickel Library,,,,,staff,,,,864.596.9072/9071,Director of the Mickel Library,Mickel Library
+320,Donna,Workman,,Donna,donna.workman@converse.edu,,358,Wilson,,,,,staff,,,,864.596.9009,Gift Management Coordinator,Institutional Advancement
+321,Kathy,Worley,,Kathy,kathy.worley@converse.edu,,,Twichell Auditorium,,,,,staff,,,,864.596.9069,Manager of Twichell Auditorium and Risk Management,Twichell Auditorium
+322,Elizabeth,York,,Elizabeth,elizabeth.york@converse.edu,,212,Blackman Music Hall,,,,,staff,,,,864.596.9166,"Chair of Music Education and Therapy, Professor of Music Therapy",Petrie School of Music
+323,Madelyn,Young,V.,Madelyn,madelyn.young@converse.edu,,304,Kuhn,,,,,staff,,,,864.596.9090,Associate Professor of Economics,"Economics, Accounting, and Business"
+324,Debra,Young,,Debra,debra.young@converse.edu,,204,Carmichael,,,,,staff,,,,864.596.9015,Administrative Assistant to the Senior Vice President and to the Director of Converse II,Senior Vice President/Converse II
+325,Jessica,Yurko,,Jessica,,,,,,,,,staff,,,,,Assistant Coach of Tarpon Sharks,Psychology
+326,David,Zacharias,,David,david.zacharias@converse.edu,,114,Milliken Art Building,,,,,staff,,,,864.596.9615,Associate Professor of Art,Art and Design
