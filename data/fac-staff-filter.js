@@ -9,6 +9,8 @@ var outString = inString;
 
 // Typo correction
 outString = outString.replace(/ and and /g, ' and ');
+outString = outString.replace(/Intercollegiat\b/, 'Intercollegiate');
+outString = outString.replace(/EDs/, 'EdS');
 var re = new RegExp('/ ', 'g');
 outString = outString.replace(re, '/');
 
@@ -22,10 +24,16 @@ outString = outString.replace(/ Room /g,' ');
 outString = outString.replace(/ Suite /g,' ');
 
 // Special cases
-outString = outString.replace(/Wilson Hall/g,'Wilson');
+outString = outString.replace(/Blackman Music Hall/g,'Blackman');
 outString = outString.replace(/Carmichael Hall/g,'Carmichael');
 outString = outString.replace(/Kuhn Hall/g,'Kuhn');
 outString = outString.replace(/Kuhn 3rd Floor/g,'Kuhn');
+outString = outString.replace(/Milliken Art Building/g,'Milliken');
+outString = outString.replace(/Montgomery Student Center/g,'Montgomery');
+outString = outString.replace(/Phifer Hall/g,'Phifer');
+outString = outString.replace(/The Weisiger Center/g,'Weisiger');
+outString = outString.replace(/Wilson Hall/g,'Wilson');
+
 
 // Ensure that the folks without contact info have the <br /> tags to end up with the right fields
 re = new RegExp('<td class="views-field views-field-field-facstaff-phone-value">\s*</td>', 'g');

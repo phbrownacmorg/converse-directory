@@ -74,9 +74,24 @@ function removeExtraFields(record, fieldsList) {
     return record;
 }
 
+function fixPhoneNumber(rawnumber) {
+    return rawnumber.replace(/\d-\((\d\d\d)\)(\d\d\d)-(\d\d\d\d)/g, '$1.$2.$3');
+}
+
+function fillInFacHomes(data) {
+    var addrData = readAndParseFile('fac_addresses.csv');
+    var copyFields = ['homeaddress', 'homecity', 'homestate', 'homezip'];
+    for (var i = 0; i < data.length; i++) {
+        for (var j = 0; j < copyFields.length; j++) {
+            data[i][copyFields[j]] = addrData[i][copyFields[j]];
+        }
+        data[i].homephone = fixPhoneNumber(addrData[i].homephone);
+    }
+    return data;
+}
+
 function fixFacStaff(data) {
-    var facEmptyFields = ['homeaddress', 'homecity', 'homestate', 'homezip', 'homephone', 
-                          'degree', 'major1', 'major2'];
+    var facEmptyFields = ['degree', 'major1', 'major2'];
     
     for (var i = 0; i < data.length; i++) {
         // Fill in middle and preferred names
@@ -85,6 +100,8 @@ function fixFacStaff(data) {
         data[i].id = 101 + i;
         data[i] = fillEmptyFields(data[i], facEmptyFields);
     }
+    
+    data = fillInFacHomes(data);
     
     return data;
 }
@@ -169,6 +186,7 @@ function getMajor(classification, degree, major1) {
 function fixStudents(data) {
     var emptyFields = ['phone', 'jobtitle', 'dept'];
     var extraFields = ['major3', 'org1', 'org2', 'org3'];
+    var campusFields = ['room', 'building'];
     // var valList = {};
     
     for (var i = 0; i < data.length; i++) {
@@ -187,6 +205,12 @@ function fixStudents(data) {
             data[i].major2 = '';
         }
         
+        // Get rid of on-campus addresses for off-campus students
+        if ((data[i].classification === 'Graduate') 
+                || (data[i].degree === '')
+                || (/^Converse II/.test(data[i].classification))) {
+            data[i] = fillEmptyFields(data[i], campusFields);
+        }
         // var val = data[i].degree;
         // if (valList.hasOwnProperty(val)) {
         //     valList[val] = valList[val] + 1;
