@@ -1,16 +1,44 @@
 <?php
-if ($student-dir)
-    if ($student) {
-        echo firstname, lastname, preferred, email, homestate;
-     }
+if ($student-dir){
+    if ($privileged){
+        echo data-all.json;
+    }/* everything */
+    
+    elseif ($student) {
+        echo data-studentview.json;
+     }/* all student data */
+     
     elseif ($faculty){
-        echo firstname, lastname, middlename, preferred, email, homestate, classification, degree, major1, major2, major3, org1, org2, org3;
-    }
+        echo data-facultyview.json;
+    }/* student data *except* room, building */
+    
+    elseif ($staff){
+        echo data-staffview.json;
+    }/* student data *except* room, building, and phone */
+    
     else() {
-        echo preferred, lastname, email;
-    }
+        echo data-anyone.json;
+    }/* student data *except* room, building, phone, homeaddress, homezip, homephone */
+}    
 else ($fac-staff-dir) {
-    echo lastname, firstname, jobtitle, dept, building, room, email, phone;
-   } 
-
+    if ($privileged){
+        echo data-all.json;
+    }/* everything */
+    
+    elseif ($student) {
+        echo data-studentview.json;
+    }/* faculty/staff data *except* homeaddress, homecity, homestate, homezip, homephone */
+     
+    elseif ($faculty){
+        echo data-facultyview.json;
+    }/* all info on faculty and staff */
+    
+    elseif ($staff){
+        echo data-staffview.json;
+    }/* all info on faculty and staff */
+    
+    else() {
+        echo data-anyone.json;
+    }/* faculty/staff data *except* homeaddress, homecity, homestate, homezip, homephone */
+}
 ?>
