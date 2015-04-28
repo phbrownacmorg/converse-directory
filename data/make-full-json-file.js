@@ -48,13 +48,13 @@ function fillInNames(record) {
 }
 
 function getFacStaffClass(jobtitle) {
-    var classification = 'staff';
+    var classification = 'Staff';
     if (/^((Associate )?Vice )?President/.test(jobtitle)) {
-        //console.log(data[i].jobtitle);
+        //console.log(jobtitle);
         classification = 'Staff';
     }
     else if (/Professor/.test(jobtitle)) {
-        //console.log(data[i].jobtitle);
+        //console.log(jobtitle);
         classification = 'Faculty';
     }    
     return classification;
@@ -96,7 +96,7 @@ function fixFacStaff(data) {
     for (var i = 0; i < data.length; i++) {
         // Fill in middle and preferred names
         data[i] = fillInNames(data[i]);
-        data[i].classification = getFacStaffClass(data[i]);
+        data[i].classification = getFacStaffClass(data[i].jobtitle);
         data[i].id = 101 + i;
         data[i] = fillEmptyFields(data[i], facEmptyFields);
     }
@@ -240,10 +240,6 @@ facData = fixFacStaff(facData);
 // Do the students
 var studentData = readAndParseFile('converse-directorystu-filtered.csv');
 studentData = fixStudents(studentData);
-//csvString = fs.readFileSync(, 'utf-8');
-//console.log("read students");
-//var facDataArray = Baby.parse(csvString, { header: true });
-//console.log('Parsed fac/staff');
 
 var data = studentData.concat(facData);
 
