@@ -3,6 +3,7 @@ fac-staff-directory.html
 .c9/
 .c9-safe/
 fac-staff-filtered-phb.csv
+data-*.csv
 
 # Logs
 logs

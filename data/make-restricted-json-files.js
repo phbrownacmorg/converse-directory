@@ -51,14 +51,18 @@ function blankInfo(studentFields, facStaffFields) {
 }
 
 // Faculty view
-writeRestrictedView('data-facultyview.json', blankInfo(['building', 'room'], null));
+writeRestrictedView('data-facultyview.json', 
+        blankInfo(['building', 'room', 'homeaddress', 'homezip', 'homephone'], null));
 // Staff view
-writeRestrictedView('data-staffview.json', blankInfo(['building', 'room', 'phone'], null));
+writeRestrictedView('data-staffview.json', 
+        blankInfo(['building', 'room', 'phone', 'homeaddress', 'homezip', 'homephone'], null));
 // Student view
 writeRestrictedView('data-studentview.json', 
-    blankInfo(null, ['homeaddress', 'homecity', 'homestate', 'homezip', 'homephone']));
+    blankInfo(['homeaddress', 'homezip', 'homephone'],
+              ['homeaddress', 'homecity', 'homestate', 'homezip', 'homephone']));
 
 // Open view
 writeRestrictedView('data-anyone.json',
-    blankInfo(['building', 'room', 'phone', 'homeaddress', 'homezip', 'homephone'],
+    blankInfo(['email', 'building', 'room', 'phone', 'homeaddress', 'homecity',
+               'homestate', 'homezip', 'homephone'],
         ['homeaddress', 'homecity', 'homestate', 'homezip', 'homephone']));
