@@ -11,11 +11,11 @@ var jsonData = Baby.parse(csvString, { header: true });
 console.log('Parsed');
 //console.log(jsonData);
 
-fs.writeFileSync('converse-directorystu-filtered.json', jsonData);
+fs.writeFileSync('converse-directorystu-filtered-try.csv', Baby.unparse(jsonData));
 console.log('Wrote');
 
-var infile = process.argv[2];
-var data = JSON.parse(fs.readFileSync(infile));
-var outfile = infile.slice(0, -5) + '.csv';
-console.log(outfile);
-fs.writeFileSync(outfile, Baby.unparse(data));
+// var infile = process.argv[2];
+// var data = JSON.parse(fs.readFileSync(infile));
+// var outfile = infile.slice(0, -5) + '.csv';
+// console.log(outfile);
+// fs.writeFileSync(outfile, Baby.unparse(data));
