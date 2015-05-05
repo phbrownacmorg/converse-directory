@@ -6,6 +6,27 @@ var colTitles = {'lastname': 'Last name', 'firstname': 'First name', 'preferred'
                  'homeaddress': 'Home address', 'homecity': 'Home city', 'homestate': 'Home state', 
                  'homezip': 'Home zip code', 'homephone': 'Home phone'};
 
+//Begin filter (Tutorial from http://code.tutsplus.com/tutorials/using-jquery-to-manipulate-and-filter-data--net-5351)
+var filterFn = function (query, column) {
+    query = $.trim(query); //trim white space
+    //query = query.replace(/ /gi, '|'); //add OR for regex query
+    query = new RegExp(query, 'i'); // Case-insensitive
+    //alert(query);
+
+    $('tbody tr:has("td")').each(function() {
+        var selector = $(this);
+        if (column !== undefined) {
+            selector = $(this).children('.' + column);
+        }
+        if (query.test(selector.text())) {
+            $(this).show().addClass('visible');
+        }
+        else {
+            $(this).hide().removeClass('visible');
+        }
+    });
+};
+    
 $(document).ready(function() {
     // Function for displaying the data in a table
     var loadTable = function(data, filterFn) {
@@ -32,8 +53,12 @@ $(document).ready(function() {
         for (var j = 0; j < data.length; j++) {
             $('#results table').append('<tr></tr>');
             for (var i = 0; i < cols.length; i++) {
-                $('#results tr:last').append('<td></td>');
-                $('#results tr:last > td:last').html(data[j][cols[i]]);
+                $('#results tr:last').append('<td class="' + cols[i] + '"></td>');
+                //$('#results tr:last > td:last').addClass([cols[i]]);
+                // if ((j === 0) && (i === 3)) {
+                //     alert('#results tr:last > .' + cols[i]);
+                // }
+                $('#results tr:last > .' + cols[i]).html(data[j][cols[i]]);
             }
         }
     };
@@ -44,25 +69,18 @@ $(document).ready(function() {
         loadTable(data, null);
         //alert('read.');
     });
-    //Begin filter (Tutorial from http://code.tutsplus.com/tutorials/using-jquery-to-manipulate-and-filter-data--net-5351)
-        function filter(selector, query) {
-            query =   $.trim(query); //trim white space
-            query = query.replace(/ /gi, '|'); //add OR for regex query
- 
-            $(selector).each(function() {
-                ($(this).text().search(new RegExp(query, "i")) < 0) ? $(this).hide().removeClass('visible') : $(this).show().addClass('visible');
-            });
+    
+    
+    $('tbody tr').addClass('visible');
+    $('#searchstring').keyup(function(event) {
+        if (event.keyCode == 27 || $(this).val() == '') {
+         //if esc is pressed we want to clear the value of search box
+            $(this).val('');
+            $('tbody tr').removeClass('visible').show().addClass('visible');
         }
-        $('tbody tr').addClass('visible');
-        $('#filter').keyup(function(event) {
-            if (event.keyCode == 27 || $(this).val() == '') {
-             //if esc is pressed we want to clear the value of search box
-                $(this).val('');
-                $('tbody tr').removeClass('visible').show().addClass('visible');
-            }
-            else {
-                filter('tbody tr', $(this).val());
-            }
-        });
+        else {
+            filterFn($(this).val());
+        }
+    });
     
 });

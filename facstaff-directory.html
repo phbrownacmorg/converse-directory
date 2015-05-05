@@ -8,8 +8,6 @@
 
 <body>
     <h1>Converse faculty/staff directory</h1>
-    <label for="filter">Filter</label>
-    <input type="text" name="filter" value="" id="filter" />
     <ul id="navlist">
         <li><strong>Search for:</strong>
         </li>
@@ -20,6 +18,8 @@
         <li><strong><a href="">Log in for more details</a></strong></li>
     </ul>
     <div id="controls"><form>
+    <label for="searchstring">Search: </label>
+    <input type="text" name="searchstring" value="" id="searchstring" />
         
     </form></div>
     <div id="results">
@@ -29,6 +29,8 @@
 
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="converse-directory-filter.js"></script>
+    
+    <!-- WHY DOES FILTERING NOT WORK FROM HERE? -->
 
 </body>
 
