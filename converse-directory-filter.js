@@ -44,7 +44,7 @@ $(document).ready(function() {
         loadTable(data, null);
         //alert('read.');
     });
-    //Begin filter
+    //Begin filter (Tutorial from http://code.tutsplus.com/tutorials/using-jquery-to-manipulate-and-filter-data--net-5351)
         function filter(selector, query) {
             query =   $.trim(query); //trim white space
             query = query.replace(/ /gi, '|'); //add OR for regex query
