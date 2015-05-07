@@ -2,12 +2,12 @@
 <html>
 
 <head>
-    <title>Converse on-line directory</title>
+    <title>Converse student directory</title>
     <link rel="stylesheet" href="directory.css" />
 </head>
 
 <body>
-    <h1>Converse on-line directory</h1>
+    <h1>Converse student directory</h1>
     <ul id="navlist">
         <li><strong>Search for:</strong>
         </li>
@@ -16,6 +16,40 @@
         <li><a href="facstaff-directory.html">Faculty/staff</a>
         </li>
     </ul>
+    <div id="controls"><form>
+    <label for="searchstring">Search: </label>
+    <input type="text" name="searchstring" value="" id="searchstring" /><br />
+    <label for="classification">Restrict by: </label>
+    <table id="restrictions">
+        <tr class="header"><th class="classification">Class</th></tr>
+        <tr><td class="classification"><input type="checkbox" checked="yes" value="all" /><label class="level1">All</label><br />
+        <input type="checkbox" value="traditional" /><label class="level2">All traditional undergraduates</label><br />
+        <input type="checkbox" value="2015" /><label class="level3">Senior (2015)</label><br />
+        <input type="checkbox" value="2016" /><label class="level3">Junior (2016)</label><br />
+        <input type="checkbox" value="2017" /><label class="level3">Sophomore (2017)</label><br />
+        <input type="checkbox" value="2018" /><label class="level3">Freshman (2018)</label><br />
+        <input type="checkbox" value="c2" /><label class="level2">All Converse II</label></td></tr>
+    </table>
+    </form></div>
+    <div id="results">
+        <h2>Results</h2>
+        <table></table>
+    </div>
+
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="converse-directory-filter.js"></script>
+    <script>
+    $(function() {
+        $.getJSON('data/data-anyone.json', function(data) {
+            //alert('reading...');
+            loadTable(data, function() {
+                filterFn(/^(?!((Faculty)|(Staff)))/, 'classification');
+             });
+             //alert('read.');
+        });
+     });
+    
+    </script>
 </body>
 
 </html>

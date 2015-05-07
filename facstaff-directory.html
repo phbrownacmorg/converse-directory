@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Converse on-line directory</title>
+    <title>Converse faculty/staff directory</title>
     <link rel="stylesheet" href="directory.css" />
 </head>
 
@@ -29,8 +29,18 @@
 
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="converse-directory-filter.js"></script>
+    <script>
+    $(function() {
+        $.getJSON('data/data-anyone.json', function(data) {
+            //alert('reading...');
+            loadTable(data, function() {
+                filterFn(/Faculty|Staff/i, 'classification');
+             });
+             //alert('read.');
+        });
+     });
     
-    <!-- WHY DOES FILTERING NOT WORK FROM HERE? -->
+    </script>
 
 </body>
 

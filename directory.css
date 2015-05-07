@@ -14,3 +14,15 @@
 #results table th {
     border: thin solid;
 }
+
+label.level1 {
+    padding-left: 1em;
+}
+
+label.level2 {
+    padding-left: 2em;
+}
+
+label.level3 {
+    padding-left: 3em;
+}
